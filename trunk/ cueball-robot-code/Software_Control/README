@@ -1,0 +1,7 @@
+Arduino A is drivetrain control Arduino
+It has the following inputs: 
+> 2 CIM motors
+> 2 optical shaft motor encoders
+
+Arduino B is main sensor input
+
